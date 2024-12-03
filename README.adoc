@@ -1,0 +1,20 @@
+= Advent of Code 2024 - Kotlin
+
+An attempt at solving https://adventofcode.com/2024[Advent of Code 2024] using https://kotlinlang.org/[Kotlin]
+
+|===
+|Puzzle |Solution
+
+|https://adventofcode.com/2024/day/1[Day 1: Historian Hysteria]
+|https://github.com/andyrbell/advent-of-code-2024/blob/master/src/main/kotlin/Day01Part1.kt[Part 1]
+ https://github.com/andyrbell/advent-of-code-2024/blob/master/src/main/kotlin/Day01Part2.kt[Part 2]
+
+|https://adventofcode.com/2024/day/2[Day 2: Red-Nosed Reports]
+|https://github.com/andyrbell/advent-of-code-2024/blob/master/src/main/kotlin/Day02Part1.kt[Part 1]
+ https://github.com/andyrbell/advent-of-code-2024/blob/master/src/main/kotlin/Day02Part2.kt[Part 2]
+
+|https://adventofcode.com/2024/day/3[Day 3: Mull It Over]
+|https://github.com/andyrbell/advent-of-code-2024/blob/master/src/main/kotlin/Day03Part1.kt[Part 1]
+ https://github.com/andyrbell/advent-of-code-2024/blob/master/src/main/kotlin/Day03Part2.kt[Part 2]
+
+|===
