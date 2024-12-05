@@ -5,7 +5,6 @@ class Day03Part2 {
     fun part2(input: List<String>): Int {
         return "$mul|$doo|$dont".toRegex()
             .findAll(input.joinToString(separator = ""))
-            .onEach { println(it.value) }
             .fold(State(), {acc, match ->
                 when {
                     acc.enabled && mul.toRegex().matches(match.value) ->
